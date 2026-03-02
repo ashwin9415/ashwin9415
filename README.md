@@ -33,8 +33,8 @@ AWS | Docker | CI/CD | GitHub Actions | Jenkins
 
 ## 📌 Featured Projects
 
-### 1️⃣ Scalable E-commerce Platform
-Full stack microservices architecture with API Gateway, authentication, and distributed services.
+### 1️⃣ KYC With Agents (Financial Crime Compliance)
+Agent which does KYC screenings with agents.
 
 ### 2️⃣ Data Pipeline with Snowflake
 Built ETL pipelines handling large datasets with optimized warehouse modeling.
