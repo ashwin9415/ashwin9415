@@ -33,13 +33,19 @@ AWS | Docker | CI/CD | GitHub Actions | Jenkins
 
 ## 📌 Featured Projects
 
-### 1️⃣ KYC With Agents (Financial Crime Compliance)
+### 1️⃣ E-Commerce Shopping System
+Scalable full-stack commerce platform built with React & Spring Boot, implementing JWT authentication, role-based access control, caching, and Dockerized deployment.
+
+### 2️⃣ KYC With Agents (Financial Crime Compliance)
 Agent which does KYC screenings with agents.
 
-### 2️⃣ Data Pipeline with Snowflake
+### 3️⃣ Data Pipeline with Snowflake
 Built ETL pipelines handling large datasets with optimized warehouse modeling.
 
-### 3️⃣ Real-Time Notification System
+Other Projects
+-----------------
+
+### Real-Time Notification System
 Event-driven architecture using async processing.
 
 ---
